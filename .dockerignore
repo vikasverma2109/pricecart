@@ -1,8 +1,8 @@
-frontend/
+frontend/node_modules/
+frontend/dist/
 **/__pycache__/
 **/*.pyc
 **/*.pyo
-**/*.pyc
 backend/bigbasket_state.json
 .git/
 *.bat
