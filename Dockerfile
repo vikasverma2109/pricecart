@@ -8,9 +8,9 @@ FROM node:20-alpine AS frontend-builder
 
 WORKDIR /app/frontend
 
-# Install dependencies (cached unless package.json changes)
+# Install dependencies (npm install works without package-lock.json)
 COPY frontend/package*.json ./
-RUN npm ci
+RUN npm install
 
 # Copy source and build
 COPY frontend/ ./
