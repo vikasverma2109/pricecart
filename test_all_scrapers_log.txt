@@ -1,0 +1,49 @@
+Query: Parle-G
+Location: Pune — lat=18.5211, lon=73.8502, pincode=411005
+============================================================
+
+[Blinkit] Starting...
+
+[Flipkart] Starting...
+
+[Amazon] Starting...
+[Blinkit] Got 0 results
+[Amazon] Got 10 results
+[Flipkart] Got 10 results
+
+============================================================
+PRICE COMPARISON — Parle-G
+============================================================
+
+────────────────────────────────────────
+  Blinkit
+────────────────────────────────────────
+  (no results)
+
+────────────────────────────────────────
+  Flipkart
+────────────────────────────────────────
+  1. Parle G Gold Biscuits Multi Grain Biscuit
+     Price: ₹308
+  2. Parle Hide Seek Choco Rolls 250gm Cookies Biscuit
+     Price: ₹163
+  3. Parle 20 20 Gold Cashew Almond Cookies Biscuit
+     Price: ₹167
+  4. Parle Black Burborn Cream Filled Biscuit
+     Price: ₹150
+  5. Parle Hide Seek Black Bourbon Plain Biscuit
+     Price: ₹198
+
+────────────────────────────────────────
+  Amazon
+────────────────────────────────────────
+  1. Unibic
+     Price: ₹145
+  2. Unibic
+     Price: ₹69
+  3. Zerobeli
+     Price: ₹242
+  4. Zerobeli
+     Price: ₹232
+  5. Parle
+     Price: ₹89

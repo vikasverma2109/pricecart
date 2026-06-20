@@ -1,0 +1,70 @@
+
+============================================================
+URL: https://api.blinkit.com/v6/search/products?search_string=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"4b47825c6146190659bf440b25157b4f"
+}
+
+============================================================
+URL: https://api.blinkit.com/v5/search/products?search_string=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"c1f169752ac7e90d9e84a80f9c512e04"
+}
+
+============================================================
+URL: https://api.blinkit.com/v4/search/products?search_string=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"a3532765345c1220357460045f90d507"
+}
+
+============================================================
+URL: https://api.blinkit.com/v6/oos/product/search?search_string=tata+salt&lat=28.6315&lon=77.2167&merchant_id=0
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"b2aaa704f216462ce690c134309dec25"
+}
+
+============================================================
+URL: https://api.blinkit.com/v5/oos/product/search?search_string=tata+salt&lat=28.6315&lon=77.2167&merchant_id=0
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"53f15219421b01604317f519d8ec2774"
+}
+
+============================================================
+URL: https://api.blinkit.com/v4/oos/product/search?search_string=tata+salt&lat=28.6315&lon=77.2167&merchant_id=0
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"66209e43e059990b66106852b7e83617"
+}
+
+============================================================
+URL: https://api.blinkit.com/v6/products/search?q=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"09ebfa172c1c143e24a95f0666724f2e"
+}
+
+============================================================
+URL: https://api.blinkit.com/v6/listing/?search_string=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"141a0756cdc5977eab34ba6e9e4a8c42"
+}
+
+============================================================
+URL: https://api.blinkit.com/v6/search/products?q=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"a6fed32289c4741caa3a6130be0b2c2f"
+}
+
+============================================================
+URL: https://api.blinkit.com/v3/search/products?search_string=tata+salt&lat=28.6315&lon=77.2167
+HTTP 404: {
+  "message":"no Route matched with those values",
+  "request_id":"01c4965ef0fd0420cd89d450ab48b914"
+}

@@ -1,0 +1,18 @@
+Starting Playwright test for Blinkit (toothpaste)...
+Using lat=28.6315, lon=77.2167
+
+Navigating to: https://blinkit.com/s/?q=toothpaste
+Page loaded (domcontentloaded)
+  [REQ] GET https://blinkit.com/api/feature-flags/receive
+  [RSP] 200 https://blinkit.com/api/feature-flags/receive
+        body: {"success":true,"data":{"featureFlags":{"is-web-enhanced-page-load-enabled":true,"is-ssr-prerender-enable-for-bots":false,"is-web-full-screen-location-select-enabled":false,"is-type-to-search-mweb-ena
+Waited 5s for JS to execute
+
+=== RESULT: '₹' in page: True ===
+Price elements found: 0
+Product-like elements found: 1
+
+=== API CALLS CAPTURED (2) ===
+  https://blinkit.com/api/feature-flags/receive
+
+Full API call log saved to: C:\Create-Tool\PriceComparisonTool\Price Compare Tool\blinkit_api_calls.json

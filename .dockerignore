@@ -1,0 +1,10 @@
+frontend/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyc
+backend/bigbasket_state.json
+.git/
+*.bat
+*.md
+.gitignore

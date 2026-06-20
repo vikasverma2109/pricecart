@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+backend/bigbasket_state.json
+node_modules/
+frontend/dist/
+.DS_Store
+# Utility/deploy scripts (may contain secrets)
+*.bat
+*.ps1
+push*.sh
+fix*.sh
+d.sh
+d2.sh
+d3.sh
+b.sh
+push_fix*.py
+redeploy*
+open-pricecart*
+find_blinkit*

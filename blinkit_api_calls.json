@@ -1,0 +1,13 @@
+[
+  {
+    "type": "REQUEST",
+    "url": "https://blinkit.com/api/feature-flags/receive",
+    "method": "GET"
+  },
+  {
+    "type": "RESPONSE",
+    "url": "https://blinkit.com/api/feature-flags/receive",
+    "status": 200,
+    "body_preview": "{\"success\":true,\"data\":{\"featureFlags\":{\"is-web-enhanced-page-load-enabled\":true,\"is-ssr-prerender-enable-for-bots\":false,\"is-web-full-screen-location-select-enabled\":false,\"is-type-to-search-mweb-enabled\":true,\"is-web-onesupport-enabled\":true,\"is-web-zpay-enabled\":true,\"is-web-print-enabled\":true,\"is_consumer_web_bff_enabled\":true,\"is-web-jumbo-client-enabled\":true,\"is-web-plp-bff-enabled\":true,\"is-web-cart-coupon-enabled\":false,\"is-web-search-bff-enabled\":true,\"is-web-zpay-v2-enabled\":false,\"i"
+  }
+]

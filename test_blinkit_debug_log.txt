@@ -1,0 +1,30 @@
+Location: Pune  lat=18.5211  lon=73.8502  pincode=411005
+
+Step 1/3: Loading blinkit.com homepage...
+  Homepage load error: Page.evaluate() takes from 2 to 3 positional arguments but 4 were given
+
+Step 2/3: Searching 'Parle-G' → https://blinkit.com/s/?q=Parle-G
+  Search navigation error: Page.evaluate() takes from 2 to 3 positional arguments but 4 were given
+  ₹ on search page: True
+
+Step 3/3: Extracting prices...
+
+==================================================
+  BLINKIT — Parle-G — Pune
+==================================================
+  1. Lotus Biscoff Caramelized Cookies - Pack of 2
+     Price: ₹59  MRP ₹60  (2% off)
+  2. Parle-G Original Gluco Biscuit
+     Price: ₹87  MRP ₹100  (13% off)  [800 g]
+  3. Parle-G Glucose Biscuit
+     Price: ₹30
+  4. Parle-G Gold Glucose Biscuit
+     Price: ₹137  MRP ₹160  (14% off)  [1 kg]
+  5. Parle-G Gold Biscuit
+     Price: ₹30
+  6. Parle-G Dark Biscuit
+     Price: ₹20  [120 g]
+  7. Parle-G Royale Glucose Biscuit
+     Price: ₹66  MRP ₹75  (12% off)  [360 g]
+  8. Parle-G Original Gluco Biscuit
+     Price: ₹5  [45 g]

@@ -1,0 +1,32 @@
+
+============================================================
+URL: https://api.blinkit.com/v3/oos/product/search?lat=28.6315&lon=77.2167&merchant_id=0&search_string=tata+salt
+HTTP Error 404: Not Found
+Body: {
+  "message":"no Route matched with those values",
+  "request_id":"1a3e7601148366533d916b7c820d3f7e"
+}
+
+============================================================
+URL: https://api.blinkit.com/v2/listing/category/product?lat=28.6315&lon=77.2167&q=tata+salt
+HTTP Error 404: Not Found
+Body: {
+  "message":"no Route matched with those values",
+  "request_id":"de6e0f71e1d0f741616ec451aab2ae05"
+}
+
+============================================================
+URL: https://api.blinkit.com/v1/search/?lat=28.6315&lon=77.2167&q=tata+salt
+HTTP Error 404: Not Found
+Body: {
+  "message":"no Route matched with those values",
+  "request_id":"815154782be09e7ef314db7cd815fc3a"
+}
+
+============================================================
+URL: https://api.blinkit.com/snb/api/v1/store/search?lat=28.6315&lon=77.2167&query=tata+salt
+HTTP Error 404: Not Found
+Body: {
+  "message":"no Route matched with those values",
+  "request_id":"5b5fcc78b03235002620fe2367a9833e"
+}
